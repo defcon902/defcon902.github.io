@@ -1,12 +1,6 @@
 # Skills
 
 ObiHann:
-- Hacking (Server, Web)
-- Wireless (Bluetooth, SDR)
-- Coding (GoLang, Python, C#, OOP, Functional)
-
-Br[at]d
-- Wireless (WiFi)
-
-invisiblethreat
-- Coding (GoLang)
+- Hacking (Server, Web): @ObiHann
+- Wireless (Bluetooth, SDR, HAM, WiFi): @Br[at]d, @Obihann
+- Coding (GoLang, Python, C#, OOP, Functional): @ObiHann, @InvisibleThreat

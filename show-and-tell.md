@@ -1,6 +1,6 @@
-# Share and Tell
+# Show and Tell
 
-A big part of DC902 is "share and tell", and this is not only cool projects your working on but fun toys too. In the spirit of this we keep a list of the devices our members have and are willing to demo at a meeting.
+A big part of DC902 is "show and tell", and this is not only cool projects your working on but fun toys too. In the spirit of this we keep a list of the devices our members have and are willing to demo at a meeting.
 If you see anything that excites, scares, or intrigues you please reach out to the owner of the device and ask them to bring it to the next meeting.
 
 ## Pentesting

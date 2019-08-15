@@ -1,5 +1,7 @@
 # Hello World!
 
+![DC902 Logo](https://github.com/defcon902/defcon902.github.io/raw/master/DC902.png)
+
 ## Location
 Halifax, Nova Scotia
 Canada

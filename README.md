@@ -12,6 +12,9 @@ We meet quarterly, our next meeting:
 September 24th 730pm-845pm
 Halifax Central Public Library (Spring Garden) - RBC Learning Center Room
 
+## Show and Tell
+Were all about learning, experiemting, and exploring here, and we encourage both discussion and showing off new ideas or technology. We have also amassed a small armoury of security related gear suck as lock picks, SDR's, proximarks, and similar, if you are interested in these check out the [list])(https://github.com/defcon902/defcon902.github.io/blob/master/show-and-tell.md) of what we have and reach out if you want to see something. We will gladly bring it to a meeting for a demo.
+
 ## Leadership
 - obihann
 - invisiblethreat

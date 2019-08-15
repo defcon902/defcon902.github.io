@@ -14,8 +14,8 @@ Halifax Central Public Library (Spring Garden) - RBC Learning Center Room
 
 ## Leadership
 - ObiHann
-- InvisibleThreat
-- Br[at]d
+- invisiblethreat
+- Br@d
 - Toxic_Flange
 
 ## Show and Tell

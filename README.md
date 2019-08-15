@@ -14,3 +14,9 @@ Halifax Central Public Library (Spring Garden) - RBC Learning Center Room
 
 ## Leadership
 Jeff Hann - jhann@protonmail.com
+
+## Code of Conduct
+
+In short, be awesome to your fellow humans and do not purposly do anything to make somebody feel uncomfortable or unwelcomed. If you feel uncomfortable in any way let somebody know and we will follow up.
+
+[Long version](https://github.com/defcon902/defcon902.github.io/blob/master/CONDUCT.md)

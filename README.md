@@ -13,7 +13,10 @@ September 24th 730pm-845pm
 Halifax Central Public Library (Spring Garden) - RBC Learning Center Room
 
 ## Leadership
-Jeff Hann - jhann@protonmail.com
+- obihann
+- invisiblethreat
+- Br[at]d
+- Toxic_Flange
 
 ## Code of Conduct
 

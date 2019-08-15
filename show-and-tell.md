@@ -4,22 +4,22 @@ A big part of DC902 is "show and tell", and this is not only cool projects your 
 If you see anything that excites, scares, or intrigues you please reach out to the owner of the device and ask them to bring it to the next meeting.
 
 ## Pentesting
-- USB Rubber Ducky (@ObiHann, @Br[at]d)
-- WHID (@Br[at]d)
-- Malduino (@Br[at]d)
+- USB Rubber Ducky (@ObiHann, @Br@d)
+- WHID (@Br@d)
+- Malduino (@Br@d)
 - Magstripe Reader (@ObiHann)
-- Magstripe Reader / Writer (@Br[at]d)
+- Magstripe Reader / Writer (@Br@d)
 
 ## Wireless
 - Ubertooth (@ObiHann)
 - HackRF (@ObiHann, @InvisibleThreat)
 - RFIDler (@ObiHann)
 - Proximark3 (@InvisibleThreat)
-- WiFi Pineapple Nano (@ObiHann, @Br[at]d)
-- WiFi Pineapple Tetra (@Br[at]d)
+- WiFi Pineapple Nano (@ObiHann, @Br@d)
+- WiFi Pineapple Tetra (@Br@d)
 - WiFi MiTM Boxes (@InvisibleThreat)
-- Keysy (@Br[at]d)
+- Keysy (@Br@d)
 
 ## Physical Security Gear
-- Lock Picks (@ObiHann, @pwent01, @InvisibleThreat, @Br[at]d)
+- Lock Picks (@ObiHann, @pwent01, @InvisibleThreat, @Br@d)
 - Lock Pinning Gear (@InvisibleThreat)

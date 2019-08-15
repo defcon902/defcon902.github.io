@@ -1,7 +1,5 @@
 # Hello World!
 
-![DC902 Logo](https://github.com/defcon902/defcon902.github.io/raw/master/DC902.png)
-
 ## Location
 Halifax, Nova Scotia
 Canada
@@ -22,3 +20,6 @@ Jeff Hann - jhann@protonmail.com
 In short, be awesome to your fellow humans and do not purposly do anything to make somebody feel uncomfortable or unwelcomed. If you feel uncomfortable in any way let somebody know and we will follow up.
 
 [Long version](https://github.com/defcon902/defcon902.github.io/blob/master/CONDUCT.md)
+
+
+![DC902 Logo](https://github.com/defcon902/defcon902.github.io/raw/master/DC902.png)

@@ -21,10 +21,11 @@ If you see anything that excites, scares, or intrigues you please reach out to t
 - Keysy ([Br@d][3])
 
 ## Physical Security Gear
-- Lock Picks ([ObiHann][1], pwent01, [invisiblethreat][2], [Br@d][3])
+- Lock Picks ([ObiHann][1], [pwent01][5], [invisiblethreat][2], [Br@d][3])
 - Lock Pinning Gear ([invisiblethreat][2])
 
 [1]: https://twitter.com/ObiHan
 [2]: https://twitter.com/blacktip
 [3]: https://twitter.com/Brad_Call
 [4]: https://twitter.com/Toxic_Flange
+[5]: https://twitter.com/battlerager1

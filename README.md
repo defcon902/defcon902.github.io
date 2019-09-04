@@ -17,7 +17,7 @@ Security, technology, and hacking are almost infinitely broad terms, and though 
 
 - Capture the flag activites (events, HTB, etc.)
 - Wireless (basically anything, from amature radio to monitoring plaines, to tracking data from your water meter)
-- Coding
+- Coding (software development, scripting, poetry for your computer)
 
 ## Location
 

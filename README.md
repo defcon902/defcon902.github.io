@@ -21,7 +21,7 @@ Security, technology, and hacking are almost infinitely broad terms, and though 
 
 ## Location
 
-Halifax, Nova Scotia
+Halifax, Nova Scotia   
 Canada
 
 ## Meetings

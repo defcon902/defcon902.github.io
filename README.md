@@ -48,7 +48,7 @@ In short, be awesome to your fellow humans and do not purposly do anything to ma
 
 [Long version](https://github.com/defcon902/defcon902.github.io/blob/master/CONDUCT.md)
 
-[1]: https://twitter.com/ObiHan
+[1]: https://twitter.com/ObiHann
 [2]: https://twitter.com/blacktip
 [3]: https://twitter.com/Brad_Call
 [4]: https://twitter.com/Toxic_Flange

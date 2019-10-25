@@ -27,9 +27,10 @@ Canada
 
 ## Meetings
 
-We meet quarterly, our next meeting:
-September 24th 730pm-845pm
-Halifax Central Public Library (Spring Garden) - RBC Learning Center Room
+We meet quarterly with occasional additional meetings, our next meeting:
+Shodan: Safaris, Pirates, and Mapping the Internet
+When: November 23th 730pm-845pm
+Where: TBD
 
 ## Leadership
 

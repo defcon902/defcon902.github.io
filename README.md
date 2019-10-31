@@ -27,10 +27,10 @@ Canada
 
 ## Meetings
 
-We meet quarterly with occasional additional meetings, our next meeting:
-Shodan: Safaris, Pirates, and Mapping the Internet
-When: November 23th 730pm-845pm
-Where: TBD
+We meet quarterly with occasional additional meetings, our next meeting:   
+Shodan: Safaris, Pirates, and Mapping the Internet   
+When: November 23th 730pm-845pm   
+Where: TBD   
 
 ## Leadership
 

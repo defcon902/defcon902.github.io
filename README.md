@@ -4,6 +4,8 @@
 
 DC902 was founded in late 2019 to create a place for hackers, tinkerers, and security professionals to share ideas and projects. We are a inclusive group and welcome everybody no matter the background or skillset, if you are a n00b or 1337, you have a place here. Jeff Hann ([ObiHann][1] on Twitter, or VE1OBI on amateur radio) is the official leader pending any coups or mutinies.
 
+**[Join us on Discord!](https://discord.gg/wbPXa9B)**
+
 ## Goals
 
 - We aim to prioritize social activity in this region by organizing gatherings to discuss security and other technical related topics on a regular basis
@@ -30,8 +32,8 @@ Canada
 ## Meetings
 
 We meet quarterly with occasional additional meetings, our next meeting:   
-Shodan: Safaris, Pirates, and Mapping the Internet   
-When: November 23th 730pm-845pm   
+Hiding from Santa: An online privacy discussion
+When: December 16th 730pm-845pm   
 Where: TBD   
 
 ## Leadership

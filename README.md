@@ -1,5 +1,7 @@
 # DC902
 
+![logo](https://raw.githubusercontent.com/defcon902/defcon902.github.io/master/logos/DC902-v2-2-light.png?v=4&s=200)
+
 ## About Us
 
 DC902 was founded in late 2019 to create a place for hackers, tinkerers, and security professionals to share ideas and projects. We are a inclusive group and welcome everybody no matter the background or skillset, if you are a n00b or 1337, you have a place here. Jeff Hann ([ObiHann][1] on Twitter, or VE1OBI on amateur radio) is the official leader pending any coups or mutinies.

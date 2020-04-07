@@ -1,6 +1,6 @@
 # DC902
 
-![logo](https://raw.githubusercontent.com/defcon902/defcon902.github.io/develop/logos/DC902-v2-2-small.png)
+![logo](https://raw.githubusercontent.com/defcon902/defcon902.github.io/develop/logos/DC902-v2-2-large.png)
 
 ## About Us
 

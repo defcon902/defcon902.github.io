@@ -12,20 +12,16 @@ If you see anything that excites, scares, or intrigues you please reach out to t
 
 ## Wireless
 - Ubertooth ([ObiHann][1])
-- HackRF ([ObiHann][1], [invisiblethreat][2])
+- HackRF ([ObiHann][1]
 - RFIDler ([ObiHann][1])
-- Proximark3 ([invisiblethreat][2])
 - WiFi Pineapple Nano ([ObiHann][1], [Br@d][3])
 - WiFi Pineapple Tetra ([Br@d][3])
-- WiFi MiTM Boxes ([invisiblethreat][2])
 - Keysy ([Br@d][3])
 
 ## Physical Security Gear
-- Lock Picks ([ObiHann][1], [pwent01][5], [invisiblethreat][2], [Br@d][3])
-- Lock Pinning Gear ([invisiblethreat][2])
+- Lock Picks ([ObiHann][1], [pwent01][5], [Br@d][3])
 
 [1]: https://twitter.com/ObiHan
-[2]: https://twitter.com/blacktip
 [3]: https://twitter.com/Brad_Call
 [4]: https://twitter.com/Toxic_Flange
 [5]: https://twitter.com/battlerager1

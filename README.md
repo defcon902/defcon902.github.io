@@ -39,7 +39,6 @@ Where: TBD
 ## Leadership
 
 - [ObiHann][1]
-- [invisiblethreat][2]
 - [Br@d][3]
 - [Toxic_Flange][4]
 - [JamieFifield][5]
@@ -53,7 +52,6 @@ Were all about learning, experimenting, and exploring here, and we encourage bot
 In short, be awesome to your fellow humans and do not purposly do anything to make somebody feel uncomfortable or unwelcomed. If you feel uncomfortable in any way let somebody know and we will follow up.
 
 [1]: https://twitter.com/ObiHann
-[2]: https://twitter.com/blacktip
 [3]: https://twitter.com/Brad_Call
 [4]: https://twitter.com/Toxic_Flange
 [5]: https://twitter.com/0x4a616d6965

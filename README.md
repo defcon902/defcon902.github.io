@@ -42,6 +42,7 @@ Where: TBD
 - [Br@d][3]
 - [Toxic_Flange][4]
 - [JamieFifield][5]
+- [Nick Gyorfi][6]
 
 ## [Show and Tell](https://github.com/defcon902/defcon902.github.io/blob/master/show-and-tell.md)
 
@@ -55,3 +56,4 @@ In short, be awesome to your fellow humans and do not purposly do anything to ma
 [3]: https://twitter.com/Brad_Call
 [4]: https://twitter.com/Toxic_Flange
 [5]: https://twitter.com/0x4a616d6965
+[6]: https://twiter.com/nickg902

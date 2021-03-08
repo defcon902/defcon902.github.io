@@ -56,4 +56,4 @@ In short, be awesome to your fellow humans and do not purposly do anything to ma
 [3]: https://twitter.com/Brad_Call
 [4]: https://twitter.com/Toxic_Flange
 [5]: https://twitter.com/0x4a616d6965
-[6]: https://twiter.com/nickg902
+[6]: https://twitter.com/nickg902

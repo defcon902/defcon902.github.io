@@ -46,7 +46,7 @@ Where: TBD
 
 ## [Show and Tell](https://github.com/defcon902/defcon902.github.io/blob/master/show-and-tell.md)
 
-Were all about learning, experimenting, and exploring here, and we encourage both discussion and showing off new ideas or technology. We have also amassed a small armoury of security related gear suck as lock picks, SDR's, proximarks, and similar, if you are interested in these check out the [list](https://github.com/defcon902/defcon902.github.io/blob/master/show-and-tell.md) of what we have and reach out if you want to see something. We will gladly bring it to a meeting for a demo.
+Were all about learning, experimenting, and exploring here, and we encourage both discussion and showing off new ideas or technology. We have also amassed a small armoury of security related gear such as lock picks, SDR's, proximarks, and similar, if you are interested in these check out the [list](https://github.com/defcon902/defcon902.github.io/blob/master/show-and-tell.md) of what we have and reach out if you want to see something. We will gladly bring it to a meeting for a demo.
 
 ## [Code of Conduct](https://github.com/defcon902/defcon902.github.io/blob/master/CONDUCT.md)
 

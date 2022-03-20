@@ -40,8 +40,9 @@ Where: TBD
 
 - [ObiHann][1]
 - [Br@d][3]
-- [Toxic_Flange][4]
 - [JamieFifield][5]
+- Naomi
+- Vezoline
 
 ## [Show and Tell](https://github.com/defcon902/defcon902.github.io/blob/master/show-and-tell.md)
 

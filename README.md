@@ -31,12 +31,15 @@ Canada
 
 ## Meetings
 
-We meet quarterly with occasional additional meetings, our next meeting:   
-Hiding from Santa: An online privacy discussion
-When: December 16th 730pm-845pm   
-Where: TBD   
+We meet the First Thursday of each month (unless it's a holiday).
 
-## Leadership
+## Active Leadership
+
+- Edward (maahokgit)
+- Malcolm (geeky_malcolm)
+- [Gurjeet (Toxic_flange)][4]
+
+## Founding and Former Leaders
 
 - [ObiHann][1]
 - [Br@d][3]

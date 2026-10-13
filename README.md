@@ -36,7 +36,7 @@ We meet the First Thursday of each month (unless it's a holiday).
 ## Active Leadership
 
 - Edward (maahokgit)
-- Malcolm (geeky_malcolm)
+- [Malcolm (geeky_malcolm)][5]
 - [Gurjeet (Toxic_flange)][4]
 
 ## Founding and Former Leaders
@@ -59,3 +59,4 @@ In short, be awesome to your fellow humans and do not purposly do anything to ma
 [3]: https://twitter.com/Brad_Call
 [4]: https://twitter.com/Toxic_Flange
 [5]: https://twitter.com/0x4a616d6965
+[6]: https://ioc.exchange/@geekymalcolm@ioc.exchange

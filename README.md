@@ -36,7 +36,7 @@ We meet the First Thursday of each month (unless it's a holiday).
 ## Active Leadership
 
 - Edward (maahokgit)
-- [Malcolm (geeky_malcolm)][5]
+- [Malcolm (geeky_malcolm)][6]
 - [Gurjeet (Toxic_flange)][4]
 
 ## Founding and Former Leaders
